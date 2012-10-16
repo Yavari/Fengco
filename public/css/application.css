@@ -1,5 +1,5 @@
 body {
-	padding-top: 100px;
+	paddi ng-top: 100px;
 	padding-bottom: 40px;
 }
 
@@ -7,4 +7,10 @@ body {
 	float:right;
 	width:200px;
 	color:black;
+}
+
+#myCarousel{
+	width: 982px;
+margin-right: auto;
+margin-left: auto;
 }
