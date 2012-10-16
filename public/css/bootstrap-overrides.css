@@ -1,0 +1,30 @@
+.fengco-navbar .navbar-inner{
+	background-color: white;
+	background-image:none;
+	border:0px;
+	box-shadow: none;
+}
+
+.fengco-navbar.navbar .brand{
+	padding-top: 1px;
+}
+
+.fengco-navbar .nav-collapse.collapse{
+	margin-top: 28px;
+}
+
+.fengco-navbar.navbar .nav > li > a,
+.fengco-navbar.navbar .nav > .active a {
+	color: white;
+	text-shadow: none;
+	margin: 0px 1px;
+	background-color: #00529A;
+}
+
+.fengco-navbar.navbar .nav > .active a,
+.fengco-navbar.navbar .nav > .active a:hover, 
+.fengco-navbar.navbar .nav  > li > a:hover,
+.fengco-navbar.navbar .nav li.dropdown.open > .dropdown-toggle{
+	background-color: #DA1F3D;
+	color:white;
+}

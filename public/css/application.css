@@ -1,0 +1,10 @@
+body {
+	padding-top: 100px;
+	padding-bottom: 40px;
+}
+
+.fengco-navbar.navbar .information{
+	float:right;
+	width:200px;
+	color:black;
+}
